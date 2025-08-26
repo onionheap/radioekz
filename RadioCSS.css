@@ -616,7 +616,7 @@ div.embed-responsive * {
   50% { background-color: #cc3300; color: white; }
 }
 
-/* Botão que aparece no rodapé quando alguém envia PM */
+/* BotÃ£o que aparece no rodapÃ© quando alguÃ©m envia PM */
 #pm-notice {
   animation: piscar-pm-notice 1s infinite !important;
 }
@@ -905,12 +905,12 @@ CSS relevante:
   font-weight: bold;
 }
  
-/* Bloco de cÃ³digo */
+/* Bloco de cÃƒÂ³digo */
 .codeblock {
   font-family: monospace;
   background-color: #000000; /* Fundo escuro acinzentado */
   color: hsl(342, 100%, 90%); /* Texto claro para contraste */
-  padding: 1px 3px; /* EspaÃ§amento maior para legibilidade */
+  padding: 1px 3px; /* EspaÃƒÂ§amento maior para legibilidade */
   border-radius: 4px;
   border: 1px solid #444; /* Borda sutil para destaque */
 }
@@ -956,7 +956,7 @@ CSS relevante:
     flex-shrink: 0;
 }
 
-/* BotÃ£o de resposta logo depois do timestamp */
+/* BotÃƒÂ£o de resposta logo depois do timestamp */
 [class^="chat-msg-"] .reply-button {
     order: -1;
     background: none;
@@ -993,7 +993,7 @@ strong.username.user-admin {
 }
 
 strong.username.user {
-    color: #704995 !important; /* Azul para usuÃ¡rios comuns */
+    color: #704995 !important; /* Azul para usuÃƒÂ¡rios comuns */
     font-size: 10px !important; /* Ou outro tamanho desejado */
 }
 
